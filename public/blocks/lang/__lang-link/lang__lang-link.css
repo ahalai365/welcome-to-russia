@@ -1,3 +1,15 @@
 .lang__lang-link {
+    margin: 18px 18px 6px 0;
+
+    line-height: 28px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
     
+}
+.lang__lang-link:first-child {
+    text-decoration: underline;
+}
+.lang__lang-link:last-child {
+    margin-right: 0;
 }
