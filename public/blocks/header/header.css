@@ -4,5 +4,10 @@
 
     margin: 0 -100px 56px;
     padding-top: 28px;
-    max-height: 52px;
+    
 }
+@media (max-width: 1240px) {
+    .header {
+        margin: 0 0 48px;
+    } 
+ }

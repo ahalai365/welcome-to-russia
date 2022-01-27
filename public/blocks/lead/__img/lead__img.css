@@ -3,3 +3,8 @@
     object-fit: cover;
     width: 984px;
 }
+@media (max-width: 1240px) {
+    .lead__img {
+        margin-top: 64px;
+    } 
+ }

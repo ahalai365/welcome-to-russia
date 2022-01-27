@@ -7,3 +7,9 @@
     margin: auto;
     padding: 0 148px 0;
 }
+@media (max-width: 1240px) {
+   .page {
+       width: 928px;
+       padding: 0 48px 0;
+   } 
+}
