@@ -1,3 +1,9 @@
 .place__website-heading {
-    
+    line-height: 12px;
+    font-size: 12px;
+    font-weight: 400; 
+    letter-spacing: 2px;
+    color: #AAAAAA;
+
+    margin-bottom: 12px;
 }

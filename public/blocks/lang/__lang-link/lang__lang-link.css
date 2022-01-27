@@ -7,9 +7,6 @@
     color: #FFFFFF;
     
 }
-.lang__lang-link:first-child {
-    text-decoration: underline;
-}
 .lang__lang-link:last-child {
     margin-right: 0;
 }
