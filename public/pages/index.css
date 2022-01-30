@@ -1,9 +1,6 @@
 @import url("./../page/page.css");
 @import url("./../blocks/content/content.css");
-@import url("./../blocks/content/__img/content__img.css");
-@import url("./../blocks/content/__subtitle/content__subtitle.css");
 @import url("./../blocks/cover/cover.css");
-@import url("./../blocks/cover/__background/cover__background.css");
 @import url("./../blocks/cover/__overlay/cover__overlay.css");
 @import url("./../blocks/cover/__subtitle/cover__subtitle.css");
 @import url("./../blocks/cover/__title/cover__title.css");

@@ -2,8 +2,8 @@
     display: grid;
     row-gap: 48px;
     column-gap: 40px;
-    grid-template-columns: 460px 484px;
-    grid-template-rows: 152px 460px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 0.3fr 1fr;
    
     margin-bottom: 80px;
 }

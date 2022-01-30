@@ -9,3 +9,12 @@
     justify-items: stretch;
     justify-content: center;
 }
+@media (max-width: 1240px) {
+    .photo-grid {
+        margin: 0;
+        width: 928px;
+        
+        grid-template-columns: repeat(3, 1fr);
+        gap: 14px;
+    } 
+ }

@@ -4,6 +4,7 @@
     font-weight: 400;
     text-align: center; 
     width: 640px;
+    align-self: center;
 
     margin-top: 32px;
 }

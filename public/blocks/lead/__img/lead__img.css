@@ -2,8 +2,3 @@
     margin-top: 64px;   
     object-fit: contain;
 }
-@media (max-width: 1240px) {
-    .lead__img {
-        width: 928px;
-    } 
-}
