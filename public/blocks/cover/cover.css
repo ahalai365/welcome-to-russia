@@ -1,11 +1,18 @@
 .cover {
     margin-top: 92px;
     height: 740px;
+    width: 1184px;
     background-image: url(./../../../images/__background.png);
     margin: 0 -100px;
-
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     position: relative;
 }
+@media (max-width: 1024px) {
+    .cover {
+        width: 1024px;
+        margin: 0 -48px;
+    } 
+ }

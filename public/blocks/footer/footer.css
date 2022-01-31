@@ -2,7 +2,14 @@
     max-height: 18px;
     margin: 0 -100px;
     padding: 92px 0 24px;
+    width: 1184px;
 
     display: flex;
     justify-content: space-between;
 }
+@media (max-width: 1024px) {
+    .footer {
+        width: 100%;
+        margin: 0;
+    } 
+ }
