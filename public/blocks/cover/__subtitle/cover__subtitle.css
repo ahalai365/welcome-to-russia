@@ -7,6 +7,9 @@
     width: 360px;
     text-align: center;
 }
+.cover__subtitle:hover ~ .cover__overlay {
+    opacity: 0.8;
+}
 @media (max-width: 320px) {
     .cover__subtitle {
         width: 288px;
