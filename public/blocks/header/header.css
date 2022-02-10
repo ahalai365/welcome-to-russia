@@ -4,9 +4,15 @@
 
     margin: 0 -100px 56px;
     padding-top: 28px;
+    width: 100%;
     
 }
 @media (max-width: 1024px) {
+    .header {
+        margin: 0 0 48px;
+    } 
+ }
+ @media (max-width: 768px) {
     .header {
         margin: 0 0 48px;
     } 

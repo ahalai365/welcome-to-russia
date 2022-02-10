@@ -2,3 +2,8 @@
     margin-top: 64px;   
     object-fit: contain;
 }
+@media (max-width: 768px) {
+    .lead__img {
+        margin: 64px -24px 0;
+    } 
+ } 

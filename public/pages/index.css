@@ -35,5 +35,6 @@
 @import url("./../blocks/place/__website-heading/place__website-heading.css");
 @import url("./../blocks/place/__website-link/place__website-link.css");
 @import url("./../blocks/place/__website/place__website.css");
+@import url("./../blocks/place/__img/place__img.css");
 @import url("./../blocks/places/places.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
