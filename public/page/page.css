@@ -18,4 +18,10 @@
         width: 720px;
         padding: 0 24px 0;
     } 
- } 
+} 
+@media (max-width: 320px) {
+    .page {
+        width: 288px;
+        padding: 0 16px 0;
+    } 
+}

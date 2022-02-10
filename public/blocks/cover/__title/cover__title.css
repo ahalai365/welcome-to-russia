@@ -6,16 +6,16 @@
     z-index: 3;
     
     width: 560px;
-    margin: 245px 0 32px;
+    /* margin: 245px 0 32px; */
     text-align: center;
 }
 .cover__title:hover ~ .cover__overlay {
-    position:absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #2A2C2F;
-    z-index: 2;
     opacity: 0.8;
+}
+@media (max-width: 320px) {
+    .cover__title {
+        width: 288px;
+        line-height: 35px;
+        font-size: 32px;
+    } 
 }

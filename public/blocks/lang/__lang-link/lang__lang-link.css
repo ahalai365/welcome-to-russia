@@ -10,3 +10,11 @@
 .lang__lang-link:last-child {
     margin-right: 0;
 }
+@media (max-width: 320px) {
+    .lang__lang-link {
+        margin: 14px 18px 8px 0;
+
+        line-height: 20px;
+        font-size: 18px;
+    } 
+ }

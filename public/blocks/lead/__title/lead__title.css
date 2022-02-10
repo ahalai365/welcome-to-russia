@@ -7,3 +7,11 @@
 
     width: 720px;
 }
+@media (max-width: 320px) {
+    .lead__title {
+        line-height: 44px;
+        font-size: 40px;
+
+        width: 100%;
+    } 
+ }

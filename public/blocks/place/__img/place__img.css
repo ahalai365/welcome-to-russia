@@ -6,9 +6,15 @@
     .place__img {
         width: 440px;
     } 
- }
+}
 @media (max-width: 768px) {
     .place__img {
         width: 340px;
     } 
- }
+}
+@media (max-width: 320px) {
+    .place__img {
+        width: 320px;
+        margin: 0 -16px 32px;
+    } 
+}

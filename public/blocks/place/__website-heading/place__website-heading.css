@@ -11,4 +11,9 @@
     .place__website-heading {
         line-height: 12px;
     } 
- }
+}
+@media (max-width: 320px) {
+    .place__website-heading {
+        margin-bottom: 12px;
+    } 
+}
