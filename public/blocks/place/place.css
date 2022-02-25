@@ -3,8 +3,7 @@
     row-gap: 48px;
     column-gap: 40px;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 0.3fr 1fr;
-   
+       
     margin-bottom: 80px;
 }
 .place:last-child {
@@ -19,12 +18,10 @@
     .place {
         column-gap: 28px;
         margin-bottom: 73px;
-        grid-template-columns: 340px 352px;
-        /* height: 484px; */
-    }
+}
 
 }
-@media (max-width: 320px) {
+@media (max-width: 690px) {
     .place {
         display: flex;
         flex-direction: column;

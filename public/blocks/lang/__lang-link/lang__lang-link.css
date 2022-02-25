@@ -10,7 +10,7 @@
 .lang__lang-link:last-child {
     margin-right: 0;
 }
-@media (max-width: 320px) {
+@media (max-width: 690px) {
     .lang__lang-link {
         margin: 14px 18px 8px 0;
 

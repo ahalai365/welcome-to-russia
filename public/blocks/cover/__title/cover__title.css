@@ -7,14 +7,14 @@
     
     width: 560px;
     text-align: center;
+    margin-bottom: 32px;
 }
-.cover__title:hover ~ .cover__overlay {
-    opacity: 0.8;
-}
-@media (max-width: 320px) {
+@media (max-width: 690px) {
     .cover__title {
         width: 288px;
         line-height: 35px;
         font-size: 32px;
+
+        margin-bottom: 16px;
     } 
 }

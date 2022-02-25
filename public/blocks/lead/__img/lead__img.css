@@ -12,7 +12,7 @@
         margin: 56px -24px 0;
     } 
 } 
-@media (max-width: 320px) {
+@media (max-width: 690px) {
     .lead__img {
         margin: 40px -16px 0;
     } 

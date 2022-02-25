@@ -5,13 +5,13 @@
     text-align: center; 
     align-self: center;
 
-    width: 720px;
+    width: 100%;
 }
-@media (max-width: 320px) {
+@media (max-width: 710px) {
     .lead__title {
         line-height: 44px;
         font-size: 40px;
 
         width: 100%;
     } 
- }
+}

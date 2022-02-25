@@ -1,28 +1,23 @@
 .page {
-    font-family: 'Inter', sans-serif;
-    width: 984px;
-    color: #FFFFFF;
-    background-color: #2A2C2F; 
+    max-width: 984px;
     margin: 0 auto;
     padding: 0 148px 0;
-    overflow-x:  hidden;
-
 }
 @media (max-width: 1024px) {
    .page {
-       width: 928px;
+       max-width: 928px;
        padding: 0 48px 0;
    } 
 }
 @media (max-width: 768px) {
     .page {
-        width: 720px;
+        max-width: 720px;
         padding: 0 24px 0;
     } 
 } 
-@media (max-width: 320px) {
+@media (max-width: 400px) {
     .page {
-        width: 288px;
+        max-width: 288px;
         padding: 0 16px 0;
     } 
 }
